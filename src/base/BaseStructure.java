@@ -1,3 +1,5 @@
+package base;
+
 public class BaseStructure {
 
     public static void main() {
